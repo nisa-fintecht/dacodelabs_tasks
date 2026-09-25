@@ -18,5 +18,5 @@ This repository contains the data analytics tasks completed during the DecodeLab
 - `project1/`: Contains documentation and files for data cleaning.
 - `project2/`: Contains files and insights for exploratory data analysis.
 - `project3/`: Contains SQL logic using Excel to evaluate product performance, status distributions, and referral channels.
-- `project4/`: Contains e-commerce sales and order data into clear, boardroom-ready visual stories to drive data-informed business decisions.
+- `project4/`: Contains e-commerce sales and order data into clear, boardroom-ready visual stories to business decisions.
 - `tasks/`: Contains the original task details and PDF guidelines provided by DecodeLabs.
